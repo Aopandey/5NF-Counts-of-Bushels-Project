@@ -1,3 +1,3 @@
 # 5NF-Counts-of-Bushels-Project
-![LDM_Final](/images/LDM_Final.png)
-![PDM_Final](/images/PDM_Final.png)
+![LDM_Final](/Images/LDM_Final.png)
+![PDM_Final](/Images/PDM_Final.png)
